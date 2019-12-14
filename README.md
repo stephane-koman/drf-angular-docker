@@ -1,2 +1,2 @@
-# drf-angular-docker-example
-Develop web application with Django Rest Framework, Angular and Docker
+# drf-angular-docker
+Develop web application with Django Rest Framework, Angular, Postgres and Docker
